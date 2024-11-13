@@ -1,0 +1,110 @@
+C:\Users\Owner\Desktop\sonar-files>python sonar-reader12.py
+Successfully read 321 pings
+
+--- Ping 1 ---
+Page Version: 3502
+Number of Bytes: 17408
+Ping Number: 20512
+Number of Samples: 2084
+Range: 0 meters
+Speed of Sound: 1.00 m/s
+Transmit Waveform:
+  Low Frequency: 0 (Enabled: True)
+  High Frequency: 9 (Enabled: False)
+Date: 0-00-00
+Time: 268435456:2024:02.01
+Channels:
+  - portHf: 2084 samples
+    First 5 samples: [13, 7, 34, 91, 13]
+    Last 5 samples: [320, 320, 240, 320, 304]
+  - stbdHf: 2084 samples
+    First 5 samples: [272, 304, 320, 288, 272]
+    Last 5 samples: [704, 752, 720, 624, 624]
+
+
+--- Ping 2 ---
+Page Version: 3502
+Number of Bytes: 17408
+Ping Number: 20513
+Number of Samples: 2084
+Range: 0 meters
+Speed of Sound: 1.00 m/s
+Transmit Waveform:
+  Low Frequency: 0 (Enabled: True)
+  High Frequency: 9 (Enabled: False)
+Date: 0-00-00
+Time: 268435456:2024:02.01
+Channels:
+  - portHf: 2084 samples
+    First 5 samples: [13, 7, 34, 98, 13]
+    Last 5 samples: [192, 304, 368, 192, 272]
+  - stbdHf: 2084 samples
+    First 5 samples: [176, 208, 384, 304, 176]
+    Last 5 samples: [448, 480, 336, 432, 384]
+
+
+--- Ping 3 ---
+Page Version: 3502
+Number of Bytes: 17408
+Ping Number: 20514
+Number of Samples: 2084
+Range: 0 meters
+Speed of Sound: 1.00 m/s
+Transmit Waveform:
+  Low Frequency: 0 (Enabled: True)
+  High Frequency: 9 (Enabled: False)
+Date: 0-00-00
+Time: 268435456:2024:02.01
+Channels:
+  - portHf: 2084 samples
+    First 5 samples: [13, 7, 35, 5, 13]
+    Last 5 samples: [480, 288, 224, 208, 272]
+  - stbdHf: 2084 samples
+    First 5 samples: [288, 432, 464, 304, 176]
+    Last 5 samples: [192, 432, 320, 240, 240]
+
+
+--- Ping 4 ---
+Page Version: 3502
+Number of Bytes: 17408
+Ping Number: 20515
+Number of Samples: 2084
+Range: 0 meters
+Speed of Sound: 1.00 m/s
+Transmit Waveform:
+  Low Frequency: 0 (Enabled: True)
+  High Frequency: 9 (Enabled: False)
+Date: 0-00-00
+Time: 268435456:2024:02.01
+Channels:
+  - portHf: 2084 samples
+    First 5 samples: [13, 7, 35, 13, 13]
+    Last 5 samples: [496, 544, 448, 464, 544]
+  - stbdHf: 2084 samples
+    First 5 samples: [448, 320, 320, 560, 480]
+    Last 5 samples: [208, 288, 336, 272, 224]
+
+
+--- Ping 5 ---
+Page Version: 3502
+Number of Bytes: 17408
+Ping Number: 20516
+Number of Samples: 2084
+Range: 0 meters
+Speed of Sound: 1.00 m/s
+Transmit Waveform:
+  Low Frequency: 0 (Enabled: True)
+  High Frequency: 9 (Enabled: False)
+Date: 0-00-00
+Time: 268435456:2024:02.01
+Channels:
+  - portHf: 2084 samples
+    First 5 samples: [13, 7, 35, 20, 13]
+    Last 5 samples: [272, 272, 240, 320, 480]
+  - stbdHf: 2084 samples
+    First 5 samples: [528, 496, 400, 496, 432]
+    Last 5 samples: [192, 352, 352, 288, 320]
+
+
+
+C:\Users\Owner\Desktop\sonar-files>
